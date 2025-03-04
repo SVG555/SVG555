@@ -10,3 +10,6 @@
   I welcome you
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47gnfdgy4ql7zvyxnbbxz3jtp88k2yyn3txv5cdgrp&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
+</div>
